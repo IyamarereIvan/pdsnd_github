@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 def get_month():
     month_option=['january','february','march','april','may','june','july']
     while True:
-        month =input('\nWhich month? Choose junuary, february, march, april, may, june, july, august, september, october, november or december\n') 
+        month =input('\nWhich month? Choose junuary, february, march, april, may, june, july\n') 
         month=month.lower()
         if(month in month_option):
             break
