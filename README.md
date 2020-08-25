@@ -6,7 +6,7 @@ Ivan Iyamarere
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+study of Bike sharing in three cities in the uS
 
 ### Files used
 Include the files used
