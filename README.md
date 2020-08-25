@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+created on 24th August by Ivan Iyamarere
 
 ### Project Title
-Replace the Project Title
+US Bikeshare project
 
 ### Description
 Describe what your project is about and what it does
