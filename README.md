@@ -1,11 +1,12 @@
 ### Date created
-created on 24th August by Ivan Iyamarere
+24th August.
+Ivan Iyamarere
 
 ### Project Title
 US Bikeshare project
 
 ### Description
-project studies the use of bikes in three cities
+study of Bike sharing in three cities in the uS
 
 ### Files used
 chicago.csv
