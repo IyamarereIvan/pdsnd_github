@@ -6,7 +6,7 @@ Ivan Iyamarere
 US Bikeshare project
 
 ### Description
-study of Bike sharing in three cities in the uS
+study of Bike sharing in three cities in the Us getting different insights from the data
 
 ### Files used
 chicago.csv
